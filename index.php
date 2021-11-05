@@ -6,7 +6,7 @@
 
   $LEGAL_REPRESENTATIVE_TITLE = "Lead Developer";
 
-  $GAME_TITLES_SEPERATED_BY_COMMAS = "Fishing Game";	
+  $GAME_TITLES_SEPERATED_BY_COMMAS = "MAKO";	
 
 ?>
 <!doctype html>
